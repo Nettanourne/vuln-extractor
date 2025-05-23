@@ -15,7 +15,7 @@ Tested on Windows 11 24H2 and macOS 15.4
 
 ### usage: 
 
-Exercise_2_vulnerability_report_parser.py \[-h\] \[-o OUTPUT\] \[-g HISTOGRAM\] \[-s SOURCE\] input
+vulnerability_report_parser.py \[-h\] \[-o OUTPUT\] \[-g HISTOGRAM\] \[-s SOURCE\] input
 
 ### positional arguments:
   input                 Path to input file.
